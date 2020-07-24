@@ -1,0 +1,60 @@
+/*General*/
+body{
+    margin: 0;
+    padding: 0;
+    height:100vh;
+    background: #f1f1f1;
+}
+
+
+/*Nav*/
+.navbar-brand {
+    font-size: 1.5rem;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#navbarCollapse a {
+font-size: 1.25rem
+}
+
+header {
+    background-image: url(img/headerImg.jpg);
+    background: cover;
+    height: 90vh;
+}
+
+.text-intro{
+padding-top: 20rem;
+}
+
+.preTxt {
+
+    font-size: 2rem;
+}
+
+h1 {
+    font-size: 4.5rem;
+    color: #f1f1f1;
+    font-family: 'montserrat', 'sans-serif';
+    font-weight: 700;
+}
+
+#start {
+    min-height: 200px;
+    background: url('img/start.jpeg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
+}
+
+#home-icons {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-top: 1px solid #000;
+}
+
+#clients img {
+    margin-top: -50px;
+}
+
